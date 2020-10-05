@@ -10,4 +10,3 @@ Advanced Structures:
   - Binary Search Tree
   - Queue
   - Stack
-  - Red-Black Tree (next)
