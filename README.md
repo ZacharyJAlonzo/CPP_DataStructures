@@ -1,5 +1,5 @@
 # CPP_DataStructures
-A C++ implementation of basic data structures.
+C++ implementations of advanced and basic data structures.
 
 Advanced Structures:
   - Red Black Tree
